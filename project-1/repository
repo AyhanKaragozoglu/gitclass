@@ -1,2 +1,19 @@
 epository kavramı:
  Versiyon kontrolünün en temel bileşeni repository denilen yapıdır. Repository, dosyalarınızdaki tüm değişiklikleri ve bu değişiklikler ile ilgili ilave bilgileri (değişikliği kim, ne zaman yaptı ve değişiklik ile ilgili girilen açıklamalar) ayrı birer versiyon olarak kayıt altında tutan bir veri tabanıdır. Git tüm bu bilgileri genellikle dosya sisteminde gizli bir klasör olarak oluşturulan .git isimli klasör içinde bir dizi dosya olarak tutar.
+Jupyter Notebook Kısayollar
+A = Satır üstüne yeni bir satır eklenir
+B = Satır altına yeni bir satır eklenir
+C = Satırı kopyalama
+H = klavye kısayolları listesini gösterir.
+Y = Markdown olan satırı Code satırına çevirir
+X = Seçili satırı keser
+DD = Seçili satır silinir
+1 = Satırı başlık yapar.Seçili halde olması gerekir.2,3,4,5,6 Başlık boyutlarını ayarlayabilirsiz. Daha büyük ve küçük yapıyor.
+Tab = Kod tamamlama veya girinti
+Shift + Enter = Sonraki kod satırına geçer.Hücredeki kodu çalıştırır.
+Shift + M = Seçili satır ile sonraki satırı birleştirir
+Shift + Tab = Kod hücresinde yazılı kısım için dokümantasyonu göster
+Ctrl + A = Tümünü seçer
+Ctrl + Y= Yinele
+Ctrl + End= Hücre sonuna gider
+Ctrl + Enter = Seçili hücreyi çalıştırır
