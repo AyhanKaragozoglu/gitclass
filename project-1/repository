@@ -1,0 +1,2 @@
+epository kavramı:
+ Versiyon kontrolünün en temel bileşeni repository denilen yapıdır. Repository, dosyalarınızdaki tüm değişiklikleri ve bu değişiklikler ile ilgili ilave bilgileri (değişikliği kim, ne zaman yaptı ve değişiklik ile ilgili girilen açıklamalar) ayrı birer versiyon olarak kayıt altında tutan bir veri tabanıdır. Git tüm bu bilgileri genellikle dosya sisteminde gizli bir klasör olarak oluşturulan .git isimli klasör içinde bir dizi dosya olarak tutar.
